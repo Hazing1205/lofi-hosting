@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "id": "rainy-night",
+      "name": "Rainy Night",
+      "tracks": [
+        { "title": "Track 1", "url": "https://hazing1205.github.io/lofi-hosting/rainy-night/track01.mp3" },
+        { "title": "Track 2", "url": "https://hazing1205.github.io/lofi-hosting/rainy-night/track02.mp3" }
+      ]
+    },
+    {
+      "id": "jazzy-cafe",
+      "name": "Jazzy Cafe",
+      "tracks": [
+        { "title": "Track 1", "url": "https://hazing1205.github.io/lofi-hosting/jazzy-cafe/track01.mp3" }
+      ]
+    }
+  ]
+}
