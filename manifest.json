@@ -4,16 +4,16 @@
       "id": "rainy-night",
       "name": "Rainy Night",
       "tracks": [
-        { "id": "rn01", "title": "Track 1", "url": "https://hazing1205.github.io/lofi-hosting/rainy-night/track01.mp3" },
-        { "id": "rn02", "title": "Track 2", "url": "https://hazing1205.github.io/lofi-hosting/rainy-night/track02.mp3" }
+        { "id": "rn01-tagged", "title": "Rainy Night 1", "url": "https://hazing1205.github.io/lofi-hosting/rainy-night/track01.mp3" },
+        { "id": "rn02-tagged", "title": "Rainy Night 2", "url": "https://hazing1205.github.io/lofi-hosting/rainy-night/track02.mp3" }
       ]
     },
     {
       "id": "jazzy-cafe",
       "name": "Jazzy Cafe",
       "tracks": [
-        { "id": "jc01", "title": "Track 1", "url": "https://hazing1205.github.io/lofi-hosting/jazzy-cafe/track01.mp3" },
-        { "id": "jc02", "title": "Track 2", "url": "https://hazing1205.github.io/lofi-hosting/jazzy-cafe/track02.mp3" }
+        { "id": "jc01-tagged", "title": "Jazzy Cafe 1", "url": "https://hazing1205.github.io/lofi-hosting/jazzy-cafe/track01.mp3" },
+        { "id": "jc02-tagged", "title": "Jazzy Cafe 2", "url": "https://hazing1205.github.io/lofi-hosting/jazzy-cafe/track02.mp3" }
       ]
     }
   ]
