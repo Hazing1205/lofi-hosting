@@ -20,6 +20,17 @@
         { "id": "jc01", "title": "Track 1", "url": "https://hazing1205.github.io/lofi-hosting/jazzy-cafe/track01.mp3" },
         { "id": "jc02", "title": "Track 2", "url": "https://hazing1205.github.io/lofi-hosting/jazzy-cafe/track02.mp3" }
       ]
+    },
+    {
+      "id": "licensedLofi",
+      "name": "Licensed Lo-Fi",
+      "tracks": [
+        { "id": "localForecastSlower", "title": "Local Forecast - Slower", "url": "https://hazing1205.github.io/lofi-hosting/licensedLofi/localForecastSlower.mp3" },
+        { "id": "comfortableMystery", "title": "Comfortable Mystery", "url": "https://hazing1205.github.io/lofi-hosting/licensedLofi/comfortableMystery.mp3" },
+        { "id": "airportLounge", "title": "Airport Lounge", "url": "https://hazing1205.github.io/lofi-hosting/licensedLofi/airportLounge.mp3" },
+        { "id": "spaceJazz", "title": "Space Jazz", "url": "https://hazing1205.github.io/lofi-hosting/licensedLofi/spaceJazz.mp3" },
+        { "id": "valseGymnopedie", "title": "Valse Gymnopedie", "url": "https://hazing1205.github.io/lofi-hosting/licensedLofi/valseGymnopedie.mp3" }
+      ]
     }
   ]
 }
